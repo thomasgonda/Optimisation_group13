@@ -3,6 +3,7 @@ Group 13 Optimisation code repository
 13/12/2019
 
 Hello and welcome!
+
 This is the code repository for the optimisation assignment of Group 13 on a sailing hybrid cargo ship.
 All of the code is written in MATLAB under an educational license. Need to download the optimisation toolbox.
 
